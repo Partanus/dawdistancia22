@@ -12,5 +12,6 @@
 function invento($param1)
 {
 echo "Hola Mundo";
+echo "Tarea TEST DAW"
 }
 
